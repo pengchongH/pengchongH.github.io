@@ -77,7 +77,7 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
 # 💻 Academic Services 
 - Reviewer for conferences: ICML, NeurIPS, ICLR, CVPR, ICCV, IJCAI, AAAI, AISTATS
 
-# CV 
-- [CV]
+# 📄 CV 
+- <a href="docs/CV.pdf" target="_blank">CV</a>
 
 
