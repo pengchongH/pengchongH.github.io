@@ -17,26 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https://engineering.wayne.edu/computer-science) at [Wayne State University](https://wayne.edu/), advised by Prof. [Zhizhong Han](https://h312h.github.io/). I obtained my B.S. degree from [Sichuan University](https://en.scu.edu.cn/) and my M.S. degree from [Tongji University](https://en.tongji.edu.cn/). My research focuses on 3D computer vision, with an emphasis on scalable 3D scene representations and advancing SLAM systems to achieve greater robustness, accuracy, efficiency, and scalability. I work on leveraging deep learning and modern 3D representations to improve localization, mapping, and real-time performance in complex environments. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: &nbsp;🎉🎉 Our paper VTGaussian-SLAM is accepted to ICML 2025!
+- *2023.09*: &nbsp;🎉🎉 Our paper DFPrior is accepted to NeurIPS 2023!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<strong>VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians</strong><br>
+    <!-- Author list -->
+    <em>
+      <strong><a href="https://pengchongh.github.io/" target="_blank">Pengchong Hu</a></strong>, 
+      <a href="https://h312h.github.io/" target="_blank">Zhizhong Han</a>
+    </em><br>
+    <i>ICML, 2025</i><br>
+    <a href="https://arxiv.org/pdf/2506.02741">[Paper]</a>
+    <a href="https://machineperceptionlab.github.io/VTGaussian-SLAM-Project/" style="margin-left: 10px;">[Project]</a>
+    <a href="https://github.com/MachinePerceptionLab/VTGaussian-SLAM" style="margin-left: 10px;">[Code]</a>
 </div>
 </div>
 
