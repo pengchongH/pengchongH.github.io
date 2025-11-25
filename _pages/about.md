@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About Me
+
 I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https://engineering.wayne.edu/computer-science) at [Wayne State University](https://wayne.edu/), advised by Prof. [Zhizhong Han](https://h312h.github.io/). I obtained my B.S. degree from [Sichuan University](https://en.scu.edu.cn/) and my M.S. degree from [Tongji University](https://en.tongji.edu.cn/). My research focuses on 3D computer vision, with an emphasis on scalable 3D scene representations and advancing SLAM systems to achieve greater robustness, accuracy, efficiency, and scalability. I work on leveraging deep learning and modern 3D representations to improve localization, mapping, and real-time performance in complex environments. 
 
 
