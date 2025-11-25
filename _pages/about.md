@@ -52,7 +52,10 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/DFPrior.gif' alt="sym" style="width:100%; height:auto;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><video src="images/DFPrior.mp4" 
+             autoplay loop muted playsinline 
+             style="width:100%; height:auto;">
+      </video></div></div>
 <div class='paper-box-text' markdown="1">
 
 <strong>Learning Neural Implicit through Volume Rendering with Attentive Depth Fusion Priors</strong><br>
