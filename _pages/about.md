@@ -27,7 +27,7 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/VTGaussian-SLAM.gif' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/VTGaussian-SLAM.gif' alt="sym" style="width:100%; height:auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <strong>VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians</strong><br>
@@ -44,7 +44,7 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/DFPrior.gif' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/DFPrior.gif' alt="sym" style="width:100%; height:auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <strong>Learning Neural Implicit through Volume Rendering with Attentive Depth Fusion Priors</strong><br>
