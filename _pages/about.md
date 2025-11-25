@@ -22,8 +22,11 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
 
 
 # 🔥 News 
-- *2025.05*: &nbsp;🎉🎉 Our paper VTGaussian-SLAM is accepted to ICML 2025!
-- *2023.09*: &nbsp;🎉🎉 Our paper DFPrior is accepted to NeurIPS 2023!
+- *2025.05*: &nbsp;🎉🎉 I won the **Graduate Student Professional Travel Award**!
+- *2025.05*: &nbsp;🎉🎉 Our paper VTGaussian-SLAM is accepted to **ICML 2025**!
+- *2023.09*: &nbsp;🎉🎉 I won the **Graduate Student Professional Travel Award**!
+- *2023.09*: &nbsp;🎉🎉 Our paper DFPrior is accepted to **NeurIPS 2023**!
+- *2022.08*: &nbsp;🎉🎉 I won the **Thomas C. Rumble University Graduate Fellowships**!
 
 # 📝 Publications 
 
@@ -78,6 +81,6 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
 - Reviewer for conferences: ICML, NeurIPS, ICLR, CVPR, ICCV, IJCAI, AAAI, AISTATS
 
 # 📄 CV 
-- <a href="docs/CV.pdf" target="_blank">CV</a>
+- <a href="images/CV.pdf" target="_blank">CV</a>
 
 
