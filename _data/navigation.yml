@@ -16,7 +16,7 @@ main:
     url: "/#-educations"
 
   - title: "Academic Services"
-    url: "/#-academica_services"
+    url: "/#-academica-services"
 
   - title: "CV"
     url: "/#-cv"
