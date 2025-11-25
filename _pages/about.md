@@ -32,7 +32,10 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/VTGaussian-SLAM.gif' alt="sym" style="width:100%; height:auto;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><video src="videos/VTGaussian-SLAM.mp4" 
+             autoplay loop muted playsinline 
+             style="width:100%; height:auto;">
+      </video></div></div>
 <div class='paper-box-text' markdown="1">
 
 <strong>VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians</strong><br>
