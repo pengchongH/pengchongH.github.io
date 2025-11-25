@@ -26,7 +26,7 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/VTGaussian-SLAM.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <strong>VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians</strong><br>
@@ -42,19 +42,38 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/DFPrior.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<strong>Learning Neural Implicit through Volume Rendering with Attentive Depth Fusion Priors</strong><br>
+    <!-- Author list -->
+    <em>
+      <strong><a href="https://pengchongh.github.io/" target="_blank">Pengchong Hu</a></strong>, 
+      <a href="https://h312h.github.io/" target="_blank">Zhizhong Han</a>
+    </em><br>
+    <i>NeurIPS, 2023</i><br>
+    <a href="https://arxiv.org/abs/2310.11598">[Paper]</a>
+    <a href="https://machineperceptionlab.github.io/Attentive_DF_Prior/" style="margin-left: 10px;">[Project]</a>
+    <a href="https://github.com/MachinePerceptionLab/Attentive_DFPrior" style="margin-left: 10px;">[Code]</a>
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05* Graduate Student Professional Travel Award, Wayne State University.
+- *2023.09* Graduate Student Professional Travel Award, Wayne State University. 
+- *2022.08* Thomas C. Rumble University Graduate Fellowships, Wayne State University。
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - Present*, **Ph.D. Candidate**, Department of Computer Science, Wayne State University, Detroit, MI, USA  
+- *2019.09 - 2022.06*, **M.S. in Mathematical Sciences**, Tongji University, Shanghai, China
+- *2014.09 - 2018.06*, **B.S. in Mathematics**, Sichuan University, Chengdu, China  
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Academic Services
+- Reviewer for conferences: ICML, NeurIPS, ICLR, CVPR, ICCV, IJCAI, AAAI, AISTATS
+
+
