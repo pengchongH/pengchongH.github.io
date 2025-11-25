@@ -32,7 +32,7 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><video src="videos/VTGaussian-SLAM.mp4" 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><video src="imaghes/VTGaussian-SLAM.mp4" 
              autoplay loop muted playsinline 
              style="width:100%; height:auto;">
       </video></div></div>
