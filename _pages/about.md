@@ -66,9 +66,9 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
 
 
 # 🎖 Honors and Awards 
-- *2025.05* Graduate Student Professional Travel Award, Wayne State University.
-- *2023.09* Graduate Student Professional Travel Award, Wayne State University. 
-- *2022.08* Thomas C. Rumble University Graduate Fellowships, Wayne State University。
+- *2025.05*, Graduate Student Professional Travel Award, Wayne State University.
+- *2023.09*, Graduate Student Professional Travel Award, Wayne State University. 
+- *2022.08*, Thomas C. Rumble University Graduate Fellowships, Wayne State University。
 
 
 # 📖 Educations 
