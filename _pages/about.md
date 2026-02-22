@@ -34,7 +34,7 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src="images/SGAD-SLAM.png" 
-             style="width:100%; height:auto;">
+             style="width:100%; height:auto;"/>
       </div></div>
 <div class='paper-box-text' markdown="1">
 
