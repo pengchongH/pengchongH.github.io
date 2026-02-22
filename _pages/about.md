@@ -44,7 +44,7 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
       <strong><a href="https://pengchongh.github.io/" target="_blank">Pengchong Hu</a></strong>, 
       <a href="https://h312h.github.io/" target="_blank">Zhizhong Han</a>
     </em><br>
-    <i>ICML, 2025</i><br>
+    <i>CVPR, 2026</i><br>
     <a href="-">[Paper]</a>
     <a href="https://machineperceptionlab.github.io/SGAD-SLAM-Project/" style="margin-left: 10px;">[Project]</a>
     <a href="https://github.com/MachinePerceptionLab/SGAD-SLAM" style="margin-left: 10px;">[Code]</a>
