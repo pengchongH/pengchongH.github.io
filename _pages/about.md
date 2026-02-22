@@ -54,6 +54,7 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
 
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><video src="images/VTGaussian-SLAM.mp4" 
              autoplay loop muted playsinline 
              style="width:100%; height:auto;">
