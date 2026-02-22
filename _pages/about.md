@@ -33,6 +33,27 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src="images/SGAD-SLAM.png" 
+             style="width:100%; height:auto;">
+      </img></div></div>
+<div class='paper-box-text' markdown="1">
+
+<strong>SGAD-SLAM: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM</strong><br>
+    <!-- Author list -->
+    <em>
+      <strong><a href="https://pengchongh.github.io/" target="_blank">Pengchong Hu</a></strong>, 
+      <a href="https://h312h.github.io/" target="_blank">Zhizhong Han</a>
+    </em><br>
+    <i>ICML, 2025</i><br>
+    <a href="-">[Paper]</a>
+    <a href="https://machineperceptionlab.github.io/SGAD-SLAM-Project/" style="margin-left: 10px;">[Project]</a>
+    <a href="https://github.com/MachinePerceptionLab/SGAD-SLAM" style="margin-left: 10px;">[Code]</a>
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><video src="images/VTGaussian-SLAM.mp4" 
              autoplay loop muted playsinline 
              style="width:100%; height:auto;">
@@ -51,6 +72,9 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
     <a href="https://github.com/MachinePerceptionLab/VTGaussian-SLAM" style="margin-left: 10px;">[Code]</a>
 </div>
 </div>
+
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><video src="images/DFPrior.mp4" 
