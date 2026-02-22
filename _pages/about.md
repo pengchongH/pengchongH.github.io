@@ -35,7 +35,7 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src="images/SGAD-SLAM.png" 
              style="width:100%; height:auto;">
-      </img></div></div>
+      </div></div>
 <div class='paper-box-text' markdown="1">
 
 <strong>SGAD-SLAM: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM</strong><br>
