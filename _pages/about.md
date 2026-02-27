@@ -7,6 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+  /* Fix iOS Safari zoom overflow */
+  .paper-box {
+    display: flex;
+    flex-wrap: wrap; /* Ensures elements stack if the screen gets too narrow */
+    overflow: hidden; /* Contains the media boundary */
+  }
+  
+  .paper-box-image, .paper-box-text {
+    min-width: 0; /* Crucial Safari fix: forces flex items to shrink */
+  }
+</style>
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
