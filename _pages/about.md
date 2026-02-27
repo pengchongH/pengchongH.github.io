@@ -7,18 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-  /* Fix iOS Safari zoom overflow */
-  .paper-box {
-    display: flex;
-    flex-wrap: wrap; /* Ensures elements stack if the screen gets too narrow */
-    overflow: hidden; /* Contains the media boundary */
-  }
-  
-  .paper-box-image, .paper-box-text {
-    min-width: 0; /* Crucial Safari fix: forces flex items to shrink */
-  }
-</style>
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -46,7 +35,7 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src="images/SGAD-SLAM.png" 
-             style="width:100%; max-width:100%; height:auto; display:block;"/>
+             style="width:100%; height:auto;"/>
       </div></div>
 <div class='paper-box-text' markdown="1">
 
