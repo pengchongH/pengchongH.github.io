@@ -25,6 +25,7 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
 
 
 # 🔥 News 
+- *2026.03*: &nbsp;🎉🎉 I will join Amazon as an Applied Scientist Intern this summer!
 - *2026.02*: &nbsp;🎉🎉 Our paper SGAD-SLAM is accepted to **CVPR 2026**!
 - *2025.05*: &nbsp;🎉🎉 I won the **Graduate Student Professional Travel Award**!
 - *2025.05*: &nbsp;🎉🎉 Our paper VTGaussian-SLAM is accepted to **ICML 2025**!
