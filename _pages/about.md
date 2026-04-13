@@ -25,6 +25,7 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
 
 
 # 🔥 News 
+- *2026.04*: &nbsp;🎉🎉 I won the **Michael E. Conrad Award** in the academic year 2025-2026 (The sole awardee among graduates in the Department of Computer Science, Wayne State University).
 - *2026.03*: &nbsp;🎉🎉 I will join Amazon as an Applied Scientist Intern this summer!
 - *2026.02*: &nbsp;🎉🎉 Our paper SGAD-SLAM is accepted to **CVPR 2026**!
 - *2025.05*: &nbsp;🎉🎉 I won the **Graduate Student Professional Travel Award**!
@@ -102,6 +103,7 @@ I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https
 
 
 # 🎖 Honors and Awards 
+- *2026.04*, Michael E. Conrad Award (Highest Honor at WSU CS Department), Wayne State University.
 - *2025.05*, Graduate Student Professional Travel Award, Wayne State University.
 - *2023.09*, Graduate Student Professional Travel Award, Wayne State University. 
 - *2022.08*, Thomas C. Rumble University Graduate Fellowships, Wayne State University.
